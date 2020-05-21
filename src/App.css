@@ -1,4 +1,4 @@
-#drum-machine {
+.DrumMachine {
   display: flex;
   flex-direction: column;
   justify-content: center;

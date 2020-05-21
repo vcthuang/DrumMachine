@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <DrumMachine />
+        <div className = "container">
+          <DrumMachine />
+        </div>
       </header>
     </div>
   );
