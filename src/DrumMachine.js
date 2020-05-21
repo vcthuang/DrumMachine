@@ -14,7 +14,7 @@ export default class DrumMachine extends Component {
 
   render() {
     return (
-      <div>
+      <div className = "drum-machine">
         <div className="card bg-dark text-warning text-center mx-auto">
           <div className="card-header" id="display">
             Drum Machine ~~ {this.state.display}
